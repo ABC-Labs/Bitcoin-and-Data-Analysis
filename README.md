@@ -1,7 +1,7 @@
 # Bitcoin and Data Analytics 2019
-Professor: 廖世偉 (SW Liao)
-Teaching assistants: Brandon, Boway, Seth Harding
-TA Email: abc@csie.ntu.edu.tw
+Professor: 廖世偉 (SW Liao)<br>
+Teaching assistants: Brandon, Boway, Seth Harding<br>
+TA Email: abc@csie.ntu.edu.tw<br>
 
 [Class Grouping](https://docs.google.com/spreadsheets/d/1JKZQcvSzHvJCJImbF2_dCeNCBfk9X4p1R-0cCzMqWs4/edit?usp=sharing)
 
