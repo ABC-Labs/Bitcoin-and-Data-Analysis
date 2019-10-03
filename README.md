@@ -3,7 +3,9 @@ Professor: 廖世偉 (SW Liao)<br>
 Teaching assistants: Brandon, Boway, Seth Harding<br>
 TA Email: abc@csie.ntu.edu.tw<br>
 
-[Class Grouping](https://docs.google.com/spreadsheets/d/1JKZQcvSzHvJCJImbF2_dCeNCBfk9X4p1R-0cCzMqWs4/edit?usp=sharing)
+[Class Grouping](https://docs.google.com/spreadsheets/d/12OG4_1Ks9GTVNHLZEERnrHeXM7sPOmajvzzCEsknHoE/edit#gid=0)<br><br>
+[Homework 1](https://github.com/ABC-Labs/Bitcoin-and-Data-Analysis/blob/master/HW1.md) - due 10/4<br>
+[Project 1](https://github.com/ABC-Labs/Bitcoin-and-Data-Analysis/blob/master/P1.md) - due 10/4<br>
 
 -------
 ## Grading
